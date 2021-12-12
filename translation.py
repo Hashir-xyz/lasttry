@@ -26,7 +26,7 @@ Developed with ❤ By @aboutjocker
 """
     ABOUT_TEXT = """<b>🤖 My Name: <a href='https://t.me/ytdfreebot'> @Ytdfreebot </a></b>
 
-<b>👨‍💻 Developer :<a href='https://t.me/aboutjocker'>@TheTeleRoid</a></b>
+<b>👨‍💻 Developer :<a href='https://t.me/aboutjocker'>@aboutjocker</a></b>
 
 <b>📝 Language: 𝐏𝐲𝐭𝐡𝐨𝐧𝟑</b>
 
@@ -34,7 +34,7 @@ Developed with ❤ By @aboutjocker
 
 <b>📕 Library: Pyrogram 1.0.7</b>
 
-<b>💢 Source Code:<a href='notavailable'> Click Here </a></b>
+<b>💢 Source Code:<a href='https://www.github.com'> Click Here </a></b>
 
 <b>📢 Bot Support:<a href='https://t.me/ytcsbot'> @ytcsbot</a></b>
 
